@@ -1,0 +1,58 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "meta": {
+    "name": "Artwork DS",
+    "version": "0.1",
+    "status": "proposal",
+    "validated_contrast_pairs": {
+      "ink_on_paper": 13.11,
+      "muted_on_paper": 5.53,
+      "white_on_primary": 7.94,
+      "white_on_terracotta": 5.63
+    }
+  },
+  "color": {
+    "paper": "#F7F4EE",
+    "surface": "#FFFFFF",
+    "ink": "#222C28",
+    "muted": "#5A655F",
+    "primary": "#235A4E",
+    "accent": "#AA493C",
+    "ochre": "#EBC88D",
+    "border": "#DCDDD7",
+    "focus": "#235A4E"
+  },
+  "font": {
+    "display": "Fraunces, serif",
+    "ui": "DM Sans, sans-serif",
+    "mono": "IBM Plex Mono, monospace"
+  },
+  "space": {
+    "1": 4,
+    "2": 8,
+    "3": 12,
+    "4": 16,
+    "6": 24,
+    "8": 32,
+    "12": 48,
+    "16": 64,
+    "24": 96
+  },
+  "radius": {
+    "sm": 6,
+    "md": 12,
+    "lg": 20,
+    "pill": 999
+  },
+  "breakpoint": {
+    "mobile": 480,
+    "tablet": 768,
+    "desktop": 1024,
+    "wide": 1440
+  },
+  "motion": {
+    "fast_ms": 150,
+    "standard_ms": 220,
+    "reduced_motion": "no nonessential transition"
+  }
+}
